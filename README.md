@@ -30,3 +30,7 @@ Please review [our security policy](https://github.com/laravel/sanctum/security/
 ## License
 
 Laravel Sanctum is open-sourced software licensed under the [MIT license](LICENSE.md).
+
+##Setup Authtoken expired time
+
+By default, auth token will never expired. Then, go Config\Sanctum.php
